@@ -10,7 +10,7 @@
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
 <ul>
 <li>
-<p>🔭 I’m currently working in <code>Iopex Technologies</code> as <code>System Engineer-NOC</code></p>
+<p>🔭I'm currently pursuing my 2nd year of Engineering at SRM University, passionate about AI, ML</p>
 </li>
 <li>
 <p>👯 I’m looking forward to collaborate on open source projects.</p>
