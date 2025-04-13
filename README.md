@@ -124,9 +124,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193" alt="visitors" />
   </a>
   
-  <!-- GitHub Stats Summary - small horizontal bar -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanish9193&hide_border=true&layout=compact&theme=tokyonight" width="355px" />
-  
   <!-- Cool Footer Separator -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
