@@ -117,11 +117,25 @@
     </a>
   </p>
 
-  <!-- Footer -->
+<!-- Footer -->
+<div align="center">
+  <!-- Visitor Counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=hanish9193&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visit Count" />
+  </a>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=hanish9193&theme=react-dark&hide_border=true" width="95%" alt="GitHub Activity Graph">
+  
+  <!-- GitHub Contribution Snake Animation -->
+  <img src="https://github.com/hanish9193/hanish9193/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation">
+  
+  <!-- Animated Footer Line -->
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/Rainbow.gif" width="100%" height="2">
+  
+  <!-- Footer Text -->
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193" alt="visitors">
+    <b>Thanks for visiting! 😊</b><br>
+    <small>© 2025 Hanish Kumar. Made with ❤️ for GitHub</small>
   </p>
-
-  <!-- Animated Footer -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
