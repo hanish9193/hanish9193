@@ -7,12 +7,6 @@
 <p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=490&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
 </div>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!-- About Me Section with Heading and Image -->
-<h2 id="--about-me" align="center">
-  <img src="https://github.com/hanish9193/hanish9193/blob/main/pic.jpg?raw=true" alt="About Me" width="200" style="border-radius: 10px;"><br>
-  <b>About Me</b>
-</h2>
-
 <ul>
 <li>
 <p>🔭I'm currently pursuing my 2nd year of Engineering at SRM University, passionate about AI, ML</p>
