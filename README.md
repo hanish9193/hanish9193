@@ -119,23 +119,19 @@
 
 <!-- Footer -->
 <div align="center">
-  <!-- Visitor Counter -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hanish9193&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visit Count" />
+  <!-- Visitor Counter - reliable service -->
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193" alt="visitors" />
   </a>
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=hanish9193&theme=react-dark&hide_border=true" width="95%" alt="GitHub Activity Graph">
+  <!-- GitHub Stats Summary - small horizontal bar -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanish9193&hide_border=true&layout=compact&theme=tokyonight" width="355px" />
   
-  <!-- GitHub Contribution Snake Animation -->
-  <img src="https://github.com/hanish9193/hanish9193/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation">
+  <!-- Cool Footer Separator -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
-  <!-- Animated Footer Line -->
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/Rainbow.gif" width="100%" height="2">
-  
-  <!-- Footer Text -->
+  <!-- Simple Text Footer -->
   <p>
-    <b>Thanks for visiting! 😊</b><br>
-    <small>© 2025 Hanish Kumar. Made with ❤️ for GitHub</small>
+    <b>Thanks for visiting my profile! Let's connect and build something amazing together. 😊</b>
   </p>
 </div>
