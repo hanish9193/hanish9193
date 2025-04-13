@@ -13,22 +13,16 @@
 <p>🔭I'm currently pursuing my 2nd year of Engineering at SRM University, passionate about AI, ML</p>
 </li>
 <li>
-<p>👯 I’m looking forward to collaborate on open source projects.</p>
+<p>🤖 I'm working on projects like CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection, and more!</p>
 </li>
 <li>
-<p>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/sarath-pm">GitHub</a></strong></p>
+<p>💬 I'm passionate about solving real-world problems using AI and ML and learning through hands-on projects and courses.</p>
 </li>
 <li>
-<p>💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉</p>
+<p>🧠 I’m focused on mastering ML algorithms, building deep learning models, and continuously enhancing my skills.</p>
 </li>
 <li>
-<p>😄 Pronouns: He/Him/We</p>
-</li>
-<li>
-<p>⚡ Coding fact: “There are over 700 different programming languages”.</p>
-</li>
-<li>
-<p>💪🏼 Fav Quote: “Great Developers never stop learning”.</p>
+<p>💡 Fun fact: Coders go trekking to random forests—just like Andrew Ng said! 🏞️</p>
 </li>
 </ul>
 <br>
