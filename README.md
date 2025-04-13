@@ -125,9 +125,17 @@
 <p></p>
 <br> 
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&amp;theme=tokyonight&amp;show_icons=true/460/300">
-</p><p><img 460="" width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" 300&#x22;=""></p>
-<p><img 460="" width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&amp;theme=tokyonight&amp;&amp;fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" 300&#x22;=""></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanish7&show_icons=true&theme=tokyonight" alt="Hanish's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish7&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish7&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 <br>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
 <p><em><b>I love connecting with different people,</b> so if you want to say <b>hi, I’d be delighted to meet you!</b>😃</em></p>
