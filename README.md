@@ -1,4 +1,4 @@
-  <h1 align="center">Hello, I'm Hanish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
   <p>
   <img src="https://github.com/hanish9193/hanish9193/blob/main/back.jpg?raw=true" alt="Back Image">
 </p>
