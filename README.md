@@ -141,8 +141,8 @@
   
   <!-- Simple Text Footer with Animated Heart -->
   <p>
-    <b>Thanks for visiting! 😊© 2025 Hanish Kumar. Made with for </b>
+    <b>Thanks for visiting! 😊© 2025 Hanish Kumar. Made with </b>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" />
-    <b> GitHub.</b>
+    <b> for GitHub.</b>
   </p>
 </div>
