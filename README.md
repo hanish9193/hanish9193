@@ -142,7 +142,7 @@
   <!-- Simple Text Footer with Animated Heart -->
   <p>
     <b>Thanks for visiting!</b>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNqNDlnOHo2Mmd0bnVwN2h0b3IzMXJ5cnpvZXg2NDRrZGx6Y2Z1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IEb2EuRQ3xc7kY/giphy.gif" alt="Smiley" width="25" height="25" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dwMTUxZjI3MGozbWhydDNia2piOWc1dnkxOGY2enBjdnlrbjUzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oiLuYNJt3Qe9ssUr1m/giphy.gif" alt="Smiley" width="25" height="25" />
       <b> © 2025 Hanish Kumar. Made with </b>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" />
     <b> for GitHub.</b>
