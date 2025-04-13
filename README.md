@@ -103,6 +103,7 @@
     <em><b>I genuinely enjoy meeting new people and exchanging ideas. Whether you have a question, want to collaborate, or just feel like saying hi — don't hesitate! I'd be thrilled to connect and chat with you.😄</b></em>
   </p>
 
+<div align="center">
   <p>
     <a href="https://www.linkedin.com/in/hanish-kumar-a5404a299/" target="_blank">
       <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45">
@@ -116,6 +117,14 @@
       <img src="https://media.tenor.com/Cb3z4eJXjTIAAAAi/instagram.gif" alt="Instagram" width="40">
     </a>
   </p>
+
+  <!-- Alternative links with text, in case GIFs don't load properly -->
+  <p>
+    <a href="https://www.linkedin.com/in/hanish-kumar-a5404a299/" target="_blank">LinkedIn</a> •
+    <a href="mailto:hanish.kumar9193@gmail.com">hanish.kumar9193@gmail.com</a> •
+    <a href="https://www.instagram.com/hanish.kumar13/" target="_blank">Instagram (@hanish.kumar13)</a>
+  </p>
+</div>
 
 <!-- Footer -->
 <div align="center">
