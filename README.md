@@ -126,15 +126,15 @@
 <br> 
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanish7&show_icons=true&theme=tokyonight" alt="Hanish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight" alt="Hanish's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish7&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 <br>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
