@@ -24,7 +24,6 @@
         <li>🌱 Always learning — currently deep diving into real-world ML applications</li>
         <li>🧑‍💻 I enjoy contributing to open-source projects and working on impactful tech</li>
         <li>💬 Ask me anything, I'm happy to help if the ball is in my court 😉</li>
-        <li>😄 Pronouns: He/Him</li>
         <li>⚡ Fun fact: "Coders go trekking into random forests" — Andrew Ng</li>
         <li>💪 Favorite Quote: "Great developers never stop learning."</li>
       </ul>
