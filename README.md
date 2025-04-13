@@ -124,11 +124,22 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193" alt="visitors" />
   </a>
   
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Always+learning+new+things;Let's+collaborate+on+projects!" alt="Typing SVG" />
+  </a>
+  
+  <!-- GitHub Profile Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hanish9193&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  </a>
+  
   <!-- Cool Footer Separator -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
-  <!-- Simple Text Footer -->
+  <!-- Simple Text Footer with Animated Heart -->
   <p>
-    <b>Thanks for visiting my profile! Let's connect and build something amazing together. 😊</b>
+    <b>Thanks for visiting my profile! Let's connect and build something amazing together.</b>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" />
   </p>
 </div>
