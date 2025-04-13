@@ -11,19 +11,20 @@
   <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 </h2>
 
+
 <table>
   <tr>
     <!-- Left Column: About Me Content -->
-    <td width="60%" valign="top">
+    <td width="60%">
       <ul>
         <li>🎓 I'm currently pursuing Machine Learning using TensorFlow, building projects and learning daily!</li>
-        <li>🛠️ Projects: Camspector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection</li>
+        <li>🛠️ Projects: CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection</li>
         <li>🌱 Always learning — currently deep diving into real-world ML applications</li>
-        <li>👨‍💻 I enjoy contributing to open-source projects and working on impactful tech</li>
+        <li>🧑‍💻 I enjoy contributing to open-source projects and working on impactful tech</li>
         <li>💬 Ask me anything, I’m happy to help if the ball is in my court 😉</li>
         <li>😄 Pronouns: He/Him</li>
         <li>⚡ Fun fact: “Coders go trekking into random forests” — Andrew Ng</li>
-        <li>💪🏼 Favorite Quote: “Great developers never stop learning.”</li>
+        <li>💪 Favorite Quote: “Great developers never stop learning.”</li>
       </ul>
     </td>
 
@@ -33,6 +34,7 @@
     </td>
   </tr>
 </table>
+
 
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <p align="center">
