@@ -27,8 +27,6 @@
         <li>💪 Favorite Quote: “Great developers never stop learning.”</li>
       </ul>
     </td>
-
-    <!-- Right Column: Profile Image -->
     <td width="40%" align="center">
       <img src="https://github.com/hanish9193/hanish9193/blob/main/pic.jpg?raw=true" alt="Hanish" width="250" style="border-radius: 10px;">
     </td>
