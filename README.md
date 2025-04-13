@@ -70,7 +70,7 @@
 </p>
 <br>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
-<p><em><b>I love connecting with different people,</b> so if you want to say <b>hi, I’d be delighted to meet you!</b>😃</em></p>
+<p><em><b>I genuinely enjoy meeting new people and exchanging ideas. Whether you have a question, want to collaborate, or just feel like saying hi — don’t hesitate! I’d be thrilled to connect and chat with you. <br>😄</em></p>
 <br>
 <hr>
 <p align="center">
