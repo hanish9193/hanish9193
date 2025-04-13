@@ -109,20 +109,13 @@
       <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45">
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:hanish.kumar9193@gmail.com" target="_blank">
+    <a href="mailto:hanish.kumar9193@gmail.com">
       <img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Email" width="40">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/hanish.kumar13/" target="_blank">
-      <img src="https://media.tenor.com/Cb3z4eJXjTIAAAAi/instagram.gif" alt="Instagram" width="40">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd0NHJwYzFrajBkbmt1azI3am1qeTBsNWU5OGx6aHc3MWsybGNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu7wtT19WfBAt0Y/giphy.gif" alt="Instagram" width="40">
     </a>
-  </p>
-
-  <!-- Alternative links with text, in case GIFs don't load properly -->
-  <p>
-    <a href="https://www.linkedin.com/in/hanish-kumar-a5404a299/" target="_blank">LinkedIn</a> •
-    <a href="mailto:hanish.kumar9193@gmail.com">hanish.kumar9193@gmail.com</a> •
-    <a href="https://www.instagram.com/hanish.kumar13/" target="_blank">Instagram (@hanish.kumar13)</a>
   </p>
 </div>
 
