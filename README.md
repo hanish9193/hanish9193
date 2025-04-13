@@ -5,29 +5,25 @@
 
 <div align="center">
 <p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=490&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
-<!-- About Me Image Section -->
-<h2 id="--about-me" align="center">
-  <img src="https://github.com/hanish9193/hanish9193/blob/main/pic.jpg?raw=true" alt="About Me" width="200" style="border-radius: 10px;">
-</h2>
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #0d1117; color: white; font-family: Arial;">
+  
+  <!-- Left Side: Text Content -->
+  <div style="flex: 1; padding-right: 20px;">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>🧑‍💻 I'm currently pursuing my 2nd year of Engineering at SRM University, passionate about AI, ML</li>
+      <li>🤖 I'm working on projects like CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection, and more!</li>
+      <li>💬 I'm passionate about solving real-world problems using AI and ML and learning through hands-on projects and courses.</li>
+      <li>🧠 I’m focused on mastering ML algorithms, building deep learning models, and continuously enhancing my skills.</li>
+      <li>💡 Fun fact: Coders go trekking to random forests—just like Andrew Ng said! 🏞️</li>
+    </ul>
+  </div>
 
+  <!-- Right Side: Image -->
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/hanish9193/hanish9193/blob/main/pic.jpg?raw=true" alt="About Me" width="200" style="border-radius: 10px;">
+  </div>
+</div>
 
-<li>
-<p>🔭I'm currently pursuing my 2nd year of Engineering at SRM University, passionate about AI, ML</p>
-</li>
-<li>
-<p>🤖 I'm working on projects like CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection, and more!</p>
-</li>
-<li>
-<p>💬 I'm passionate about solving real-world problems using AI and ML and learning through hands-on projects and courses.</p>
-</li>
-<li>
-<p>🧠 I’m focused on mastering ML algorithms, building deep learning models, and continuously enhancing my skills.</p>
-</li>
-<li>
-<p>💡 Fun fact: Coders go trekking to random forests—just like Andrew Ng said! 🏞️</p>
-</li>
-</ul>
-<br>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <p align="center">
 </p><ul>
