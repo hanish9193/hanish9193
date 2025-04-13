@@ -1,5 +1,4 @@
-
-  <p>
+<p>
   <img src="https://github.com/hanish9193/hanish9193/blob/main/back.jpg?raw=true" alt="Back Image">
 </p>
 
@@ -21,10 +20,10 @@
         <li>🛠️ Projects: CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection</li>
         <li>🌱 Always learning — currently deep diving into real-world ML applications</li>
         <li>🧑‍💻 I enjoy contributing to open-source projects and working on impactful tech</li>
-        <li>💬 Ask me anything, I’m happy to help if the ball is in my court 😉</li>
+        <li>💬 Ask me anything, I'm happy to help if the ball is in my court 😉</li>
         <li>😄 Pronouns: He/Him</li>
-        <li>⚡ Fun fact: “Coders go trekking into random forests” — Andrew Ng</li>
-        <li>💪 Favorite Quote: “Great developers never stop learning.”</li>
+        <li>⚡ Fun fact: "Coders go trekking into random forests" — Andrew Ng</li>
+        <li>💪 Favorite Quote: "Great developers never stop learning."</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -35,8 +34,8 @@
 
 
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
-<p align="center">
-</p><ul>
+</div>
+<ul>
 <li>
 <p>📋 Languages:</p>
 <p><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
@@ -62,26 +61,28 @@
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Sublime Text">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"></p>
 </li>
-<li>
+</ul>
+
+<div align="center">
 <br> 
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight" alt="Hanish's GitHub stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 <br>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
-<p><em><b>I genuinely enjoy meeting new people and exchanging ideas. Whether you have a question, want to collaborate, or just feel like saying hi — don’t hesitate! I’d be thrilled to connect and chat with you.😄</em></p>
+<p><em><b>I genuinely enjoy meeting new people and exchanging ideas. Whether you have a question, want to collaborate, or just feel like saying hi — don't hesitate! I'd be thrilled to connect and chat with you.😄</em></p>
 <br>
 <hr>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/hanish-kumar-a5404a299/" target="_blank">
     <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45">
   </a>
@@ -95,3 +96,4 @@
   </a>
 </p>
 <hr>
+</div>
