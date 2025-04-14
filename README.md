@@ -77,24 +77,10 @@
 
 
 
+<!-- Copy-paste in your Readme.md file -->
 
-<!-- GitHub Stats Section (Centered) -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-    <b>GitHub Stats</b>
-  </h2>
 
-  <!-- GitHub Stats Card -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Hanish's GitHub stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" width="49%" />
-  </p>
-  
-  <!-- Language Stats Card -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" width="50%" />
-  </p>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
   <!-- Connect Section -->
   <h2>
@@ -130,14 +116,23 @@
   </a>
   
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Always+learning+new+things;Let's+collaborate+on+projects!" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Always+learning+new+things;Let's+collaborate+on+projects!" alt="Typing SVG" />
+</a>
+
   
-  <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanish9193&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
+<!-- Minimalist GitHub Profile Showcase -->
+
+<!-- Dark Contribution Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="hanish9193's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00AEFF&hide_border=true&custom_title=Contribution%20Timeline" />
+</a>
+
+<!-- Vercel Stats - Dark Themed -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&rank_icon=github" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages" />
+</div>
   
   <!-- Cool Footer Separator -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
