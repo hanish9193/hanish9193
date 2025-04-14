@@ -64,7 +64,7 @@
 
 
 <h2>
-  <img src="https://media.giphy.com/media/iJtsvKj0ZTN9BXuN7J/giphy.gif" width="25">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25">
   <b>IDEs & Tools</b>
 </h2>
 
