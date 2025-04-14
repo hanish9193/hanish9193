@@ -78,14 +78,7 @@
 
 
 <!-- Copy-paste in your Readme.md file -->
-<!-- 3D GitHub Skyline Visualization -->
-<div align="center">
-  <h3>📊 My GitHub Contributions in 3D 📊</h3>
-  <a href="https://skyline.github.com/hanish9193/2024" target="_blank">
-    <img src="https://github.com/hanish9193/hanish9193/blob/main/assets/github-skyline.gif" alt="GitHub Skyline 3D Contributions" width="600" />
-  </a>
-  <p>Click the image to explore my interactive 3D contribution graph</p>
-</div>
+
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
