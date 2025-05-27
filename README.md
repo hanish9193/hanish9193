@@ -30,7 +30,7 @@
     </td>
     <!-- Right Column: Profile Image -->
     <td width="40%" align="center">
-      <img src="https://github.com/hanish9193/hanish9193/blob/main/pic.jpg?raw=true" alt="Hanish" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="https://github.com/hanish9193/hanish9193/blob/main/qr.png?raw=true" alt="Hanish" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     </td>
   </tr>
 </table>
