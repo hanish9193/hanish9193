@@ -1,3 +1,4 @@
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://github.com/hanish9193/hanish9193/blob/main/back.jpg?raw=true" alt="Back Image" width="100%">
@@ -109,7 +110,16 @@
     </a>
   </p>
 </div>
-
+<!-- 3D Code Structure -->
+<div align="center">
+  <h3>🏗️ 3D Code Architecture</h3>
+  
+  <!-- 3D Repository Structure -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=3D%20Neural%20Network%20Stats&include_all_commits=true&count_private=true&border_radius=15" alt="3D GitHub Stats" width="49%">
+  
+  <!-- 3D Streak Visualization -->
+  <img src="https://streak-stats.demolab.com/?user=hanish9193&theme=transparent&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=c9d1d9&border_radius=15" alt="3D Streak Stats" width="49%">
+</div>
 <!-- Footer -->
 <div align="center">
   <!-- Visitor Counter - reliable service -->
@@ -125,17 +135,17 @@
   
 <!-- Minimalist GitHub Profile Showcase -->
 
-<!-- Dark Contribution Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="hanish9193's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00AEFF&hide_border=true&custom_title=Contribution%20Timeline" />
-</a>
-
-<!-- Vercel Stats - Dark Themed -->
+<!-- 3D Elements -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&rank_icon=github" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages" />
-</div>
+  <h3>🎯 3D Visualization</h3>
   
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&bg_color=0d1117&color=ffffff&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=3D%20Neural%20Activity" width="100%">
+  
+  <!-- 3D Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanish9193&theme=github_dark" alt="3D Profile" width="100%">
+</div>
+
   <!-- Cool Footer Separator -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
