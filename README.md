@@ -6,16 +6,16 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** and **Data Scientist** based in Chennai, Tamil Nadu, India. Currently pursuing my degree and passionate about uncovering insights hidden within data and building intelligent systems that solve real-world problems.
+I'm a **AI/ML Learning Engineer** based in Chennai, Tamil Nadu, India. Currently pursuing my degree and passionate about uncovering insights hidden within data and building intelligent systems that solve real-world problems.
 
 ```python
 class Hanish:
     def __init__(self):
         self.name = "Hanish"
-        self.role = "Machine Learning Engineer | Data Scientist"
+        self.role = "AI/ML Learning Engineer "
         self.location = "Chennai, Tamil Nadu, India"
-        self.languages = ["English", "Tamil"]
-        self.current_focus = "Deep Learning & AI Applications"
+        self.languages = ["English", "Kannada", "Telugu", "Tamil", "Hindi"]
+        self.current_focus = "Deep Learning & Reinforcement Learning"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -26,11 +26,11 @@ me.say_hi()
 
 ## 💼 What I'm Up To
 
-- 🔭 Currently working on **Natural Language Processing projects** and **predictive analytics models**
-- 🌱 Deepening my expertise in **Deep Learning**, **Computer Vision**, and **MLOps**
+- 🔭 Currently working on **Natural Language Processing projects** and **Reinforcement Learning**
+- 🌱 Deepening my expertise in **Deep Learning** and **NLP**
 - 👯 Open to collaborate on **open-source data science and ML projects**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis, or anything tech**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **hanish.kumar9193@gmail.com**
 - ⚡ Fun fact: I believe the best models are built after a good night's sleep 😴
 
 ## 🛠️ Tech Stack
@@ -38,10 +38,10 @@ me.say_hi()
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### ML/AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -56,24 +56,20 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish&theme=tokyonight" alt="hanish" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight" alt="hanish" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -100,10 +96,11 @@ I'm always interested in collaborating on innovative projects, discussing new id
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanish/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hanish)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanishportfolio.space-2563eb?style=for-the-badge)](https://hanishportfolio.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanish-kumar-a5404a299/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanish.kumar9193l@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanish.kumar13/)
 
 </div>
 
@@ -113,6 +110,6 @@ I'm always interested in collaborating on innovative projects, discussing new id
   
 **"Data is the new oil, but insights are the new gold."**
 
-⭐️ From [Hanish](https://github.com/hanish) | Last Updated: December 2025
+⭐️ From [Hanish](https://github.com/hanish9193) | Last Updated: December 2025
 
 </div>
