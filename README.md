@@ -1,160 +1,119 @@
+# Hi there, I'm Hanish 👋
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/hanish9193/hanish9193/blob/main/back.jpg?raw=true" alt="Back Image" width="100%">
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=hanish&color=0e75b6&style=flat)](https://github.com/hanish)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hanish/)
 
-<!-- Animated Welcome Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG">
-</p>
+## 🚀 About Me
 
-<!-- About Me Section -->
-<h2>
-  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> 
-  <b>About Me</b>
-</h2>
+I'm a **Machine Learning Engineer** and **Data Scientist** based in Chennai, Tamil Nadu, India. Currently pursuing my degree and passionate about uncovering insights hidden within data and building intelligent systems that solve real-world problems.
 
-<table>
-  <tr>
-    <!-- Left Column: About Me Content -->
-    <td width="60%">
-      <ul>
-        <li>🎓 I'm currently pursuing Machine Learning using TensorFlow, building projects and learning daily!</li>
-        <li>🛠️ Projects: CAMSpector, Attendify, TaskMaster, Object Detection, CNN-based Vehicle Crash Detection</li>
-        <li>🌱 Always learning — currently deep diving into real-world ML applications</li>
-        <li>🧑‍💻 I enjoy contributing to open-source projects and working on impactful tech</li>
-        <li>💬 Ask me anything, I'm happy to help if the ball is in my court 😉</li>
-        <li>⚡ Fun fact: "Coders go trekking into random forests" — Andrew Ng</li>
-        <li>💪 Favorite Quote: "Great developers never stop learning."</li>
-      </ul>
-    </td>
-    <!-- Right Column: Profile Image -->
-    <td width="40%" align="center">
-      <img src="https://github.com/hanish9193/hanish9193/blob/main/qr.png?raw=true" alt="Hanish" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    </td>
-  </tr>
-</table>
+```python
+class Hanish:
+    def __init__(self):
+        self.name = "Hanish"
+        self.role = "Machine Learning Engineer | Data Scientist"
+        self.location = "Chennai, Tamil Nadu, India"
+        self.languages = ["English", "Tamil"]
+        self.current_focus = "Deep Learning & AI Applications"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
 
-<!-- Skills Section (Left-aligned) -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  <b>Skills</b>
-</h2>
+me = Hanish()
+me.say_hi()
+```
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+## 💼 What I'm Up To
 
-<h2>
-  <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="25">
-  <b>Work In Progress!</b>
-</h2>
+- 🔭 Currently working on **Natural Language Processing projects** and **predictive analytics models**
+- 🌱 Deepening my expertise in **Deep Learning**, **Computer Vision**, and **MLOps**
+- 👯 Open to collaborate on **open-source data science and ML projects**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis, or anything tech**
+- 📫 Reach me at: **your.email@gmail.com**
+- ⚡ Fun fact: I believe the best models are built after a good night's sleep 😴
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&logoColor=FF6F00)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=white)&nbsp;
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<h2>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25">
-  <b>IDEs & Tools</b>
-</h2>
+### ML/AI & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=green)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
+### Tools & Technologies
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
-<!-- Copy-paste in your Readme.md file -->
-<p align="center">
-  <img src="https://github.com/hanish9193/hanish9193/blob/main/profile_giff.gif?raw=true" alt="Back Image" width="100%">
-</p>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-  <!-- Connect Section -->
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-    <b>Connect with Me</b>
-  </h2>
-  
-  <p>
-    <em><b>I genuinely enjoy meeting new people and exchanging ideas. Whether you have a question, want to collaborate, or just feel like saying hi — don't hesitate! I'd be thrilled to connect and chat with you.😄</b></em>
-  </p>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/hanish-kumar-a5404a299/" target="_blank">
-      <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45">
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:hanish.kumar9193@gmail.com">
-      <img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Email" width="40">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/hanish.kumar13/" target="_blank">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd0NHJwYzFrajBkbmt1azI3am1qeTBsNWU5OGx6aHc3MWsybGNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu7wtT19WfBAt0Y/giphy.gif" alt="Instagram" width="40">
-    </a>
-  </p>
-</div>
-<!-- 3D Code Structure -->
-<div align="center">
-  <h3>🏗️ 3D Code Architecture</h3>
-  
-  <!-- 3D Repository Structure -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=3D%20Neural%20Network%20Stats&include_all_commits=true&count_private=true&border_radius=15" alt="3D GitHub Stats" width="49%">
-  
-  <!-- 3D Streak Visualization -->
-  <img src="https://streak-stats.demolab.com/?user=hanish9193&theme=transparent&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=c9d1d9&border_radius=15" alt="3D Streak Stats" width="49%">
-</div>
-<!-- Footer -->
-<div align="center">
-  <!-- Visitor Counter - reliable service -->
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hanish9193.hanish9193" alt="visitors" />
-  </a>
-  
-  <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Always+learning+new+things;Let's+collaborate+on+projects!" alt="Typing SVG" />
-</a>
-
-  
-<!-- Minimalist GitHub Profile Showcase -->
-
-<!-- 3D Elements -->
-<div align="center">
-  <h3>🎯 3D Visualization</h3>
-  
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&bg_color=0d1117&color=ffffff&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=3D%20Neural%20Activity" width="100%">
-  
-  <!-- 3D Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanish9193&theme=github_dark" alt="3D Profile" width="100%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-  <!-- Cool Footer Separator -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish&theme=tokyonight" alt="hanish" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanish&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+## 📈 Contribution Graph
+
+[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanish&theme=tokyo-night)](https://github.com/hanish)
+
+## 💡 Quote of the Day
+
+<div align="center">
   
-  <!-- Simple Text Footer with Animated Heart -->
-  <p>
-    <b>Thanks for visiting!</b>
-      <img src="https://www.gifcen.com/wp-content/uploads/2023/11/emoji-gif-1.gif" alt="Smiley" width="25" height="25" />
-      <b> © 2025 Hanish Kumar. Made with </b>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" />
-    <b> for GitHub.</b>
-  </p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, discussing new ideas, or just having a chat about technology and data science. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanish/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hanish)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanish/)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Data is the new oil, but insights are the new gold."**
+
+⭐️ From [Hanish](https://github.com/hanish) | Last Updated: December 2025
+
 </div>
