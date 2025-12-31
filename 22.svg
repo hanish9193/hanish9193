@@ -1,0 +1,107 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica', 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+#background {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  fill: #0d1117;
+  stroke: #30363d;
+  stroke-width: 1px;
+  rx: 6px;
+  ry: 6px;
+}
+
+.header {
+  font-size: 16px;
+  font-weight: 600;
+  fill: #39d353;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.stat-box {
+  transform: translateY(100px);
+  opacity: 0;
+  animation: slideUp 0.8s ease-out forwards;
+}
+
+@keyframes slideUp {
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.label {
+  font-size: 12px;
+  fill: #8b949e;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.value {
+  font-size: 32px;
+  fill: #39d353;
+  font-weight: 600;
+}
+
+.subtext {
+  font-size: 12px;
+  fill: #6e7681;
+}
+
+.divider {
+  stroke: #21262d;
+  stroke-width: 1;
+}
+</style>
+
+<rect x="5" y="5" id="background" />
+
+<!-- Header -->
+<text x="25" y="35" class="header">GitHub Contribution Streak</text>
+
+<!-- Current Streak -->
+<g class="stat-box" style="animation-delay: 0.2s;">
+  <rect x="40" y="65" width="130" height="90" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="105" y="88" class="label" text-anchor="middle">Current Streak</text>
+  <text x="105" y="125" class="value" text-anchor="middle">___</text>
+  <text x="105" y="142" class="subtext" text-anchor="middle">days</text>
+</g>
+
+<!-- Longest Streak -->
+<g class="stat-box" style="animation-delay: 0.4s;">
+  <rect x="182.5" y="65" width="130" height="90" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="247.5" y="88" class="label" text-anchor="middle">Longest Streak</text>
+  <text x="247.5" y="125" class="value" text-anchor="middle">___</text>
+  <text x="247.5" y="142" class="subtext" text-anchor="middle">days</text>
+</g>
+
+<!-- Total Contributions -->
+<g class="stat-box" style="animation-delay: 0.6s;">
+  <rect x="325" y="65" width="130" height="90" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="390" y="88" class="label" text-anchor="middle">Total Contributions</text>
+  <text x="390" y="125" class="value" text-anchor="middle">___</text>
+  <text x="390" y="142" class="subtext" text-anchor="middle">in 2025</text>
+</g>
+
+<!-- Progress indicator -->
+<g style="animation: fadeIn 1.2s ease-in-out 0.8s both;">
+  <rect x="40" y="170" width="415" height="3" rx="1.5" fill="#161b22"/>
+  <rect x="40" y="170" width="280" height="3" rx="1.5" fill="#39d353">
+    <animate attributeName="width" from="0" to="280" dur="1.5s" begin="0.8s" fill="freeze"/>
+  </rect>
+  <text x="247.5" y="186" class="subtext" text-anchor="middle" style="font-size: 11px;">
+    Contributions in the last year
+  </text>
+</g>
+</svg>
