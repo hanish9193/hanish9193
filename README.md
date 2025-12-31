@@ -1,67 +1,159 @@
-# Hi there, I'm Hanish 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hanish/)
+# Hanish Kumar S
 
-## 🚀 About Me
+**AI/ML Researcher · Published Author · Computer Science @ SRM Institute**
 
-I'm a **AI/ML Learning Engineer** based in Chennai, Tamil Nadu, India. Currently pursuing my degree and passionate about uncovering insights hidden within data and building intelligent systems that solve real-world problems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanishportfolio.space-2563eb?style=flat-square)](https://hanishportfolio.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanish__Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish-kumar-a5404a299/)
+[![Email](https://img.shields.io/badge/Email-hanish.kumar9193-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hanish.kumar9193@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/hanish9193)
+[![Instagram](https://img.shields.io/badge/Instagram-hanish.kumar13-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanish.kumar13/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hanish9193&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## About Me
+
+AI/ML researcher and Computer Science undergraduate at **SRM Institute of Science and Technology** (CGPA: 9.80/10.00), specializing in Artificial Intelligence and Machine Learning. Lead author with publications in computer vision (ICCCNet 2025) and algorithmic optimization (IEEE submission under review). Passionate about building intelligent systems that solve real-world problems.
 
 ```python
-class Hanish:
+class HanishKumar:
     def __init__(self):
-        self.name = "Hanish"
-        self.role = "AI/ML Learning Engineer "
+        self.name = "Hanish Kumar S"
+        self.role = "AI/ML Researcher | Published Author"
         self.location = "Chennai, Tamil Nadu, India"
-        self.languages = ["English", "Kannada", "Telugu", "Tamil", "Hindi"]
-        self.current_focus = "Deep Learning & Reinforcement Learning"
+        self.education = "SRM Institute | CSE (AI & ML) | CGPA: 9.80/10.00"
+        self.languages = ["English", "Tamil", "Telugu", "Kannada", "Hindi"]
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+    def current_focus(self):
+        return {
+            "research": ["GPU-accelerated algorithms", "Computer vision"],
+            "development": ["Custom NLP models", "Deep learning optimization"],
+            "learning": ["Reinforcement Learning", "Advanced neural architectures"]
+        }
+    
+    def achievements(self):
+        return {
+            "competitions": "1st Place IIT Madras (500+ teams) | Top 1% Amazon ML Challenge",
+            "publications": "ICCCNet 2025 (Accepted) | IEEE TPDS (Under Review)",
+            "certifications": "Stanford ML | NVIDIA Deep Learning | Top 2% NPTEL IIT"
+        }
 
-me = Hanish()
-me.say_hi()
+researcher = HanishKumar()
+print("Let's collaborate on groundbreaking AI research!")
 ```
 
-## 💼 What I'm Up To
+---
 
-- 🔭 Currently working on **Natural Language Processing projects** and **Reinforcement Learning**
-- 🌱 Deepening my expertise in **Deep Learning** and **NLP**
-- 👯 Open to collaborate on **open-source data science and ML projects**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, or anything tech**
-- 📫 Reach me at: **hanish.kumar9193@gmail.com**
-- ⚡ Fun fact: I believe the best models are built after a good night's sleep 😴
+## Research & Publications
 
-## 🛠️ Tech Stack
+**V-SORT: Vectorized Counting Sort Implementation for High-Performance Bounded Integer Sorting**  
+*IEEE Transactions on Parallel and Distributed Systems* · Under Review (Submitted September 2025)  
+Novel GPU-accelerated sorting algorithm achieving 3-8× speedup over optimized radix sort implementations
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Facial Micro-Expression Analysis for Deception Detection Using Deep Learning Techniques**  
+*International Conference on Computing and Communication Networks (ICCCNet) 2025* · Accepted (Elsevier SSRN)  
+InceptionV4-based architecture achieving 73% reduction in demographic bias
 
-### ML/AI & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-### Tools & Technologies
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## Featured Projects
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**Health is Wealth** – AI-Driven Symptom Analyzer & Telehealth Platform  
+Custom-trained BERT model delivering 25+ accurate health condition classifications with 3-minute assessment time. Features end-to-end encryption and 100% client-side inference for privacy protection.  
+*React.js · Tailwind CSS · Node.js · Express · FastAPI · Python · BERT · WebRTC*
 
-## 📊 GitHub Statistics
+**Attendify** – Smart Attendance Analytics Dashboard  
+Real-time visual analytics processing 50+ attendance scenarios. Serving 3,500+ students across UK, US, and Mexico with 99% uptime and sub-2-second load times.  
+[![Live](https://img.shields.io/badge/Live-attendify.space-success?style=flat-square)](https://attendify.space)  
+*React · TypeScript · Tailwind CSS · Vite · ShadCN/UI*
+
+**Task Master** – AI-Driven Productivity Application  
+Task management system with three AI personalities, reducing average task completion time by 1-2 hours weekly and improving engagement by 25%.  
+*React · TypeScript · Express.js · PostgreSQL · Drizzle ORM · Passport.js*
+
+**Cam Spector** – Automated Theft & Vehicle Crash Detection System  
+Real-time security monitoring using YOLOv5 and CNN classification, achieving 91% detection accuracy with <3% false positive rate across 4 concurrent CCTV feeds.  
+*Python · YOLOv5 · OpenCV · CNN · Tkinter · SMTP*
+
+---
+
+## Technical Stack
+
+### Languages & Core
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI/ML & Deep Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Professional Certifications
+
+**Introduction to Machine Learning** · IIT Kharagpur (NPTEL)  
+Top 2% Distinction · Score: 82% · July 2025 - September 2025
+
+**Machine Learning Specialization** · Stanford University (Coursera)  
+Instructor: Andrew Ng · 11-course specialization · November 2024 - April 2025
+
+**NVIDIA Deep Learning Certification Track**  
+Getting Started with Deep Learning · Generative AI with Diffusion Models · January 2025 - May 2025
+
+**TensorFlow Developer Professional Certificate** · Coursera  
+Computer Vision · NLP · Time Series Forecasting · January 2025 - May 2025
+
+---
+
+## Competition Achievements
+
+**First Place** · PALS Innovation Challenge · IIT Madras · January 2024  
+Won among 500+ participants after clearing 3 rigorous selection rounds
+
+**Top 1%** · Amazon ML Challenge · Amazon · March 2025  
+Ranked 667 out of 75,000+ participants with score of 49.7175
+
+**Top 50** · Smart India Hackathon Internal Selection · SRM · April 2025  
+Selected among Top 50 teams from 1,100+ applicants (Top 4.5%)
+
+**Second Place** · Hack Street 3.0 · SRM Gen AI Hackathon · February 2025  
+Placed second among 300+ participants with AI-powered theft detection system
+
+---
+
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -69,47 +161,47 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight" alt="hanish" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight" alt="hanish9193" />
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hanish9193&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 📈 Contribution Graph
+---
 
-[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&theme=tokyo-night)](https://github.com/hanish9193)
-
-## 💡 Quote of the Day
+## Contribution Activity
 
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&theme=tokyo-night" alt="Contribution Graph"/>
 </div>
 
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, discussing new ideas, or just having a chat about technology and data science. Feel free to reach out!
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanishportfolio.space-2563eb?style=for-the-badge)](https://hanishportfolio.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanish-kumar-a5404a299/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanish.kumar9193l@gmail.com)
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2563eb?style=for-the-badge)](https://hanishportfolio.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish-kumar-a5404a299/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hanish9193)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanish.kumar9193@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanish.kumar13/)
+
+**Research interests:** GPU acceleration · Computer vision · NLP · Deep learning optimization
 
 </div>
 
 ---
 
 <div align="center">
-  
-**"Data is the new oil, but insights are the new gold."**
 
-⭐️ From [Hanish](https://github.com/hanish9193) | Last Updated: December 2025
+**"Research without implementation is incomplete. Code without research is limited."**
+
+From [hanish9193](https://github.com/hanish9193) · Last updated December 2025
 
 </div>
