@@ -1,6 +1,6 @@
 # Hi there, I'm Hanish 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hanish&color=0e75b6&style=flat)](https://github.com/hanish)
+[![Profile Views](https://komarev.com/ghpvc/?username=hanish&color=0e75b6&style=flat)](https://github.com/hanish9193)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hanish/)
@@ -80,12 +80,12 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanish&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hanish9193&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 📈 Contribution Graph
 
-[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanish&theme=tokyo-night)](https://github.com/hanish)
+[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanish9193&theme=tokyo-night)](https://github.com/hanish9193)
 
 ## 💡 Quote of the Day
 
