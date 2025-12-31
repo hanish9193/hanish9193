@@ -10,8 +10,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/hanish9193)
 [![Instagram](https://img.shields.io/badge/Instagram-hanish.kumar13-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanish.kumar13/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hanish9193&color=0e75b6&style=flat)
-
 </div>
 
 ---
