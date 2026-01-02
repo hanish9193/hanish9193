@@ -76,32 +76,8 @@ print("Let's collaborate on groundbreaking AI research!")
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="./11.svg" alt="GitHub Stats" />
-<img width="49%" src="./22.svg" alt="GitHub Activity" />
-
-</div>
-
----
-
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=header&text=Explore%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Scan%20the%20QR%20code%20to%20view%20my%20projects,%20research,%20and%20work%20experience&descSize=12&descAlignY=55&descColor=e8f4f8" />
-</p>
-
-<p align="center">
-  <a href="https://hanishportfolio.space">
-    <img src="./qr.png" alt="Portfolio QR Code" width="200" height="200" style="border-radius: 15px; border: 3px solid #70a5fd; padding: 10px; background: #1a1b27;"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub><i>Optimized for desktop viewing</i></sub>
-</p>
 
 ---
 
