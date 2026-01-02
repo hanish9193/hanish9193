@@ -78,18 +78,37 @@ print("Let's collaborate on groundbreaking AI research!")
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  
+![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanish9193&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hanish9193&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hanish9193&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scan+to+Explore+My+Portfolio" alt="Scan to Explore My Portfolio" />
+</p>
+
+<p align="center">
+  <a href="https://hanishportfolio.space">
+    <img src="./qr.png" alt="Portfolio QR Code" width="200" height="200" style="border-radius: 15px; border: 3px solid #70a5fd; padding: 10px; background: #1a1b27;"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>Experience my work through an interactive journey</i></sub>
+</p>
+
+---
 
 ## Connect With Me
 
