@@ -86,6 +86,8 @@ print("Let's collaborate on groundbreaking AI research!")
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hanish9193&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hanish9193&color=70a5fd&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -93,7 +95,7 @@ print("Let's collaborate on groundbreaking AI research!")
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=header&text=Explore%20My%20Portfolio&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Scan%20the%20QR%20code%20to%20view%20my%20projects,%20research,%20and%20work%20experience&descSize=14&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=header&text=Explore%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Scan%20the%20QR%20code%20to%20view%20my%20projects,%20research,%20and%20work%20experience&descSize=12&descAlignY=55&descColor=e8f4f8" />
 </p>
 
 <p align="center">
