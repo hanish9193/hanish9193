@@ -80,11 +80,8 @@ print("Let's collaborate on groundbreaking AI research!")
 
 <div align="center">
   
-![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanish9193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanish9193&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hanish9193&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+<img width="49%" src="./11.svg" alt="GitHub Stats" />
+<img width="49%" src="./22.svg" alt="GitHub Activity" />
 
 </div>
 
