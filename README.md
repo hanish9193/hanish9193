@@ -95,7 +95,7 @@ print("Let's collaborate on groundbreaking AI research!")
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Scan+to+Explore+My+Portfolio" alt="Scan to Explore My Portfolio" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=header&text=Explore%20My%20Portfolio&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Scan%20the%20QR%20code%20to%20view%20my%20projects,%20research,%20and%20work%20experience&descSize=14&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ print("Let's collaborate on groundbreaking AI research!")
 </p>
 
 <p align="center">
-  <sub><i>Experience my work through an interactive journey</i></sub>
+  <sub><i>Optimized for desktop viewing</i></sub>
 </p>
 
 ---
