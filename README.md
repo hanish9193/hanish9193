@@ -86,8 +86,6 @@ print("Let's collaborate on groundbreaking AI research!")
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hanish9193&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hanish9193&color=70a5fd&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
