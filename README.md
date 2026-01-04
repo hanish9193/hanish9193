@@ -2,7 +2,7 @@
 
 # Hanish Kumar S
 
-**AI/ML Engineer · Published Author · Computer Science @ SRM Institute**
+**AI Engineer · Published Author · Computer Science @ SRM Institute**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hanishportfolio.space-2563eb?style=flat-square)](https://hanishportfolio.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanish__Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanish-kumar-a5404a299/)
